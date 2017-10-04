@@ -1,6 +1,10 @@
 # node.liqui.io
 A unofficial Promise-based Node.js wrapper for the [Liqui](https://liqui.io/) crypto-currency exchange.
 
+## TCT update
+
+`node tradehistory`
+
 ## Install
 Install via NPM:
 
@@ -34,7 +38,7 @@ liqui.info().then( result => {
         }
         ...
     }
-} 
+}
 */
 ```
 ### Ticker

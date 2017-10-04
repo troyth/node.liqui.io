@@ -18,6 +18,7 @@
     "should": "^11.2.1"
   },
   "dependencies": {
+    "json2csv": "^3.11.2",
     "querystring": "^0.2.0",
     "request": "^2.81.0",
     "request-promise": "^4.2.1"
